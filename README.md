@@ -18,6 +18,8 @@
 <a href="https://moustaphacamara.fr/" target="blank"><img align="center" src="https://moustaphacamara.fr/logo-mc.svg" alt="camara-moustapha" height="30" width="48" /></a>
 </p>
 
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MoustaphaHCSE)
+
 <h2 align="left">Technologies I use</h2>
 <h3 align="left">Front-end</h3>
 
