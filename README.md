@@ -8,6 +8,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/MoustaphaHCSE">
+    My professional github
+  </a>
+</p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moustaphacamara&theme=highcontrast" alt="moustaphacamara" /></p>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=moustaphacamara&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="moustaphacamara" /></p>
@@ -17,8 +23,6 @@
 <a href="https://linkedin.com/in/camara-moustapha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camara-moustapha" height="30" width="40" /></a>
 <a href="https://moustaphacamara.fr/" target="blank"><img align="center" src="https://moustaphacamara.fr/logo-mc.svg" alt="camara-moustapha" height="30" width="48" /></a>
 </p>
-
-[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/MoustaphaHCSE)
 
 <h2 align="left">Technologies I use</h2>
 <h3 align="left">Front-end</h3>
