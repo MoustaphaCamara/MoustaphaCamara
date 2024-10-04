@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Moustapha</h1>
 <h3 align="center">A software engineer based in France</h3>
 
-<h4 align="center">I mainly work with php and typescript, using the following :</h4>
+<h4 align="center">I like to work with php and typescript, using the following :</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,nuxtjs,tailwind" />
   </a>
 </p>
 
+
+<h3 align="center">I mainly work on :</h3>
 <p align="center">
-  <a href="https://github.com/MoustaphaHCSE">
-    My professional github
-  </a>
+  <a href="https://github.com/elabftw/elabftw">eLabFTW</a>, a free electronic laboratory notebook useful for researchers. <br/>
+  You can support the project by becoming a <a href="https://github.com/sponsors/NicolasCARPi/">Github Sponsor</a> or through <a href="https://liberapay.com/NicolasCARPi/">Liberapay.
 </p>
+
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=moustaphacamara&theme=highcontrast" alt="moustaphacamara" /></p>
 
