@@ -24,7 +24,7 @@
 <h2 align="left">Technologies I use</h2>
 <h3 align="left">Front-end</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,nuxtjs,pinia,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,vue,nuxtjs,pinia,html,css,tailwind,vuetify,materialui)](https://skillicons.dev)
 
 <h3 align="left">Back-end</h3>
 
@@ -33,10 +33,6 @@
 <h3 align="left">My developing environment</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,phpstorm,webstorm,vscode)](https://skillicons.dev)
-
-<h3 align="left">Libs I often use in projects</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=tailwind,vuetify,materialui)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
