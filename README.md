@@ -28,11 +28,11 @@
 
 <h3 align="left">Back-end</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,mysql,nodejs,py)](https://skillicons.dev)
 
 <h3 align="left">My developing environment</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,phpstorm,webstorm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,phpstorm,webstorm,vscode,bash)](https://skillicons.dev)
 
 <h3 align="left">Tools</h3>
 
