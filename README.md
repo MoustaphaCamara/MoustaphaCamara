@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Moustapha</h1>
-<h3 align="center">A software engineer based in France</h3>
+<h1 align="center">Hi 👋 I'm Mouss</h1>
+<h3 align="center">Software engineer based in France</h3>
+<h3 align="center">Welcome to my github profile</h2>
 
 <h4 align="center">I like to work with :</h4>
 <p align="center">
@@ -9,7 +10,7 @@
 </p>
 
 
-<h3 align="center">I mainly work on :</h3>
+<h4 align="center">I mainly work on :</h3>
 <p align="center">
   <a href="https://github.com/elabftw/elabftw">eLabFTW</a>, a free electronic laboratory notebook useful for researchers. <br/>
   You can support the project by becoming a <a href="https://github.com/sponsors/NicolasCARPi/">Github Sponsor</a> or through <a href="https://liberapay.com/NicolasCARPi/">Liberapay.
