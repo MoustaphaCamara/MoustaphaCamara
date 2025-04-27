@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Mouss</h1>
+thanks !<h1 align="center">Hi 👋 I'm Mouss</h1>
 
 <p align="center">Welcome to my GitHub profile!</p>
 <p align="center">I'm a full-stack engineer based in France with an interest in open-source projects.</p>
@@ -69,3 +69,5 @@
 [![My portfolio](https://img.shields.io/badge/My%20portfolio-6D4C9F)](https://moustaphacamara.fr/)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff)](https://bsky.app/profile/moussdeltablot.bsky.social)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/CmrMous)
+
+<a href="https://moustaphacamara.github.io/themoussroom/" target="_blank">Check out my blog :)</a>
