@@ -1,4 +1,4 @@
-thanks !<h1 align="center">Hi 👋 I'm Mouss</h1>
+<h1 align="center">Hi 👋 I'm Mouss</h1>
 
 <p align="center">Welcome to my GitHub profile!</p>
 <p align="center">I'm a full-stack engineer based in France with an interest in open-source projects.</p>
