@@ -3,18 +3,9 @@
 <p align="center">Welcome to my GitHub profile!</p>
 <p align="center">I'm a full-stack engineer based in France with an interest in open-source projects.</p>
 
-<p align="center"><b>I like to work with :</b></p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,ts" />
-  </a>
-</p>
+I like to build stuff with [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logoColor=white)](#) and [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=fff)](#) and mainly contribute on projects around the <a href="https://github.com/elabftw/elabftw">eLabFTW</a> ecosystem, a free electronic laboratory notebook useful for researchers.
 
-<p align="center"><b>I mainly work on :</b></p>
-<p align="center">
-  <a href="https://github.com/elabftw/elabftw">eLabFTW</a>, a free electronic laboratory notebook useful for researchers. <br/>
-  You can support the project by becoming a <a href="https://github.com/sponsors/NicolasCARPi/">Github Sponsor</a> or through <a href="https://liberapay.com/NicolasCARPi/">Liberapay.
-</p>
+You can support the project by becoming a [Github Sponsor](https://github.com/sponsors/NicolasCARPi/) or through [Liberapay](https://liberapay.com/NicolasCARPi/).
 
 <h3 align="left">Some technologies I work with:</h3>
 
