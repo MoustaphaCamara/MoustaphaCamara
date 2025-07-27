@@ -43,6 +43,7 @@ You can support the project by becoming a [Github Sponsor](https://github.com/sp
 [![Shell](https://img.shields.io/badge/Shell-000?logo=zsh&logoColor=fff)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![PhpStorm](https://img.shields.io/badge/PhpStorm-000?logo=phpstorm&logoColor=fff)](#)
+[![GoLang](https://img.shields.io/badge/GoLang-FFF?logo=Go&logoColor=6AD7E5)](#)
 
 <h4>Workflow & other tools</h4>
 
