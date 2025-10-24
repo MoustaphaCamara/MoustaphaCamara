@@ -32,6 +32,7 @@ You can support the project by becoming a [Github Sponsor](https://github.com/sp
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Go-2496ED?logo=Go&logoColor=fff)](#)
 
 <h4>Dev Environment</h4>
 
