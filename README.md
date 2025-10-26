@@ -56,6 +56,7 @@ You can support the project by becoming a [Github Sponsor](https://github.com/sp
 [![Postman](https://img.shields.io/badge/Postman-F37440?logo=postman&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-f8bc45?logo=jupyternotebook&logoColor=fff)](#)
+[![OVH](https://img.shields.io/badge/OVH-123F6D?logo=ovh&logoColor=white)](#)
 
 <h4>Get in touch</h4>
 
