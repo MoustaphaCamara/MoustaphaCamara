@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Mouss</h1>
 
 <p align="center">Welcome to my GitHub profile!</p>
-<p align="center">I'm a full-stack engineer based in France with an interest in open-source projects.</p>
+<p align="center">I'm a full-stack DevOps engineer based in France with an interest in open-source projects.</p>
 
 I like to build stuff with [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logoColor=white)](#) and [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=fff)](#) and mainly contribute on projects around the <a href="https://github.com/elabftw/elabftw">eLabFTW</a> ecosystem, a free electronic laboratory notebook useful for researchers.
 
