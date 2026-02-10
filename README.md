@@ -3,9 +3,12 @@
 <p align="center">Welcome to my GitHub profile!</p>
 <p align="center">I'm a full-stack DevOps engineer based in France with an interest in open-source projects.</p>
 
-I like to build stuff with [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logoColor=white)](#) and [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=fff)](#) and mainly contribute on projects around the <a href="https://github.com/elabftw/elabftw">eLabFTW</a> ecosystem, a free electronic laboratory notebook useful for researchers.
+I like to build stuff with [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?logoColor=white)](#) and [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logoColor=fff)](#). I mainly contribute on projects around the <a href="https://github.com/elabftw/elabftw">eLabFTW</a> ecosystem, a free electronic laboratory notebook useful for researchers.
 
-You can support the project by becoming a [Github Sponsor](https://github.com/sponsors/NicolasCARPi/) or through [Liberapay](https://liberapay.com/NicolasCARPi/).
+I also contribute to several [Deltablot](https://www.deltablot.com/) projects around automation and containerization.
+Notably [elabctl](https://github.com/elabftw/elabctl) (shell tooling for eLabFTW administration), [elabimg](https://github.com/elabftw/elabimg) (the official Docker image), and [elabapi-python](https://github.com/elabftw/elabapi-python) (a Python client for the eLabFTW v2 REST API).
+
+You can support the eLabFTW project by becoming a [Github Sponsor](https://github.com/sponsors/NicolasCARPi/) or through [Liberapay](https://liberapay.com/NicolasCARPi/).
 
 <h3 align="left">Some technologies I work with:</h3>
 
