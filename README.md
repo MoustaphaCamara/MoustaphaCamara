@@ -15,8 +15,9 @@ You can support the eLabFTW project by becoming a [Github Sponsor](https://githu
 <h4>Front End</h4>
   
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white)](#)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](#)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 [![Nuxt](https://img.shields.io/badge/Nuxt-002E3B?logo=nuxt&logoColor=#00DC82)](#)
 [![Vuetify](https://img.shields.io/badge/Vuetify-2361DAFB?logo=vuetify&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
@@ -61,6 +62,8 @@ You can support the eLabFTW project by becoming a [Github Sponsor](https://githu
 [![OVH](https://img.shields.io/badge/OVH-123F6D?logo=ovh&logoColor=white)](#)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
 [![Wails](https://img.shields.io/badge/Wails-df0000?logo=wails&logoColor=white)](#)
+[![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](#)
+[![Hugo](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#)
 
 <h4>Get in touch</h4>
 
