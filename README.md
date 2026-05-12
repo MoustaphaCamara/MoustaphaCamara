@@ -60,6 +60,8 @@ You can support the eLabFTW project by becoming a [Github Sponsor](https://githu
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
 [![Jupyter Lab](https://img.shields.io/badge/Jupyter%20Lab-f8bc45?logo=jupyternotebook&logoColor=fff)](#)
 [![OVH](https://img.shields.io/badge/OVH-123F6D?logo=ovh&logoColor=white)](#)
+[![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](#)
+[![Wails](https://img.shields.io/badge/Wails-df0000?logo=wails&logoColor=white)](#)
 
 <h4>Get in touch</h4>
 
