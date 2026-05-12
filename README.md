@@ -32,9 +32,9 @@ You can support the eLabFTW project by becoming a [Github Sponsor](https://githu
 [![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white)](#)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
+[![Go](https://img.shields.io/badge/Go-2496ED?logo=Go&logoColor=fff)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-[![Pandas](https://img.shields.io/badge/Go-2496ED?logo=Go&logoColor=fff)](#)
 
 <h4>Dev Environment</h4>
 
